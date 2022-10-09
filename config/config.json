@@ -1,0 +1,15 @@
+{
+    "links" : {
+        "URL_Mobile_FList":"https://m.facebook.com/friends/center/friends/?mff_nav=1",
+        "URL_Mobile_Face":"https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fhome.php%3Frefsrc%3Dhttp%253A%252F%252Fwww.google.com%252F&refsrc=http%3A%2F%2Fwww.google.com%2F&_rdr",
+        "URL_Mobile_Active_FList":"https://m.facebook.com/buddylist.php"
+    },
+    "dirs":{
+        "collDir":"CollectedData/",
+        "cookie":"config/cookie.json"
+    },
+    "time":{
+        "implicityDelay":100,       
+        "timeDelay": 2  
+    }
+}
