@@ -10,7 +10,7 @@ After some "digging", meaning 5 hours of rapidly clicking on every part of the s
 
 UNTIL I REMEMBERD THAT there is mobile facebook, and oh boy oh boy. There is gold - buddyList
 
-But Wyvar! On a right site there is a bar with active people. Why not just scrap this?
+But Ivar! On a right site there is a bar with active people. Why not just scrap this?
 
 Welp - The problem is, that "activebar" is limited to 20-25 people active + groups. Even more - updates are irregular and might be off by up to 5 mins or in worse case scenario "stuck" until reload. Reloading is kind of dangerous, cause facebook analyze's trafic and bans certain functions.. sooo.. Nope
 
