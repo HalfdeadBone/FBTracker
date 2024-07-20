@@ -1,4 +1,4 @@
-# FBTracker [BetaBuild]
+# FBTracker [Abandoned]
 The program that you see here is an old bet between me and my friend.
 The idea was to create the activity tracker Stalk bot, as a type of fun project with overusing requests.
 
